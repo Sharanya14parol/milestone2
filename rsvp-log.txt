@@ -1,0 +1,8 @@
+Updated RSVP Queue: [
+  {
+    "name": "pqr",
+    "email": "john.doe@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  }
+]

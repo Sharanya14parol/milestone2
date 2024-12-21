@@ -7,7 +7,7 @@ const priorityRoutes = require("./routes/priorityRoutes");
 const rsvpRoutes = require("./routes/rsvpRoutes");
 const sortRoutes = require("./routes/sortRoutes");
 const app = express();
-const PORT = 5001;
+const PORT = 5002;
 
 app.use(bodyParser.json());
 
