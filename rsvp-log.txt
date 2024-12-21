@@ -6,3 +6,63 @@ Updated RSVP Queue: [
     "attendance": "yes"
   }
 ]
+Updated RSVP Queue: [
+  {
+    "name": "abc",
+    "email": "john.doe@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  }
+]
+Updated RSVP Queue: [
+  {
+    "name": "abyc",
+    "email": "john.doe@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  }
+]
+Updated RSVP Queue: [
+  {
+    "name": "abyc",
+    "email": "john.doe@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  },
+  {
+    "name": "John",
+    "email": "john.doe@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  }
+]
+Updated RSVP Queue: [
+  {
+    "name": "John",
+    "email": "john.doe@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  }
+]
+Updated RSVP Queue: [
+  {
+    "name": "John",
+    "email": "john.doe@example.com",
+    "preference": "non-veg",
+    "attendance": "yes"
+  }
+]
+Updated RSVP Queue: [
+  {
+    "name": "John",
+    "email": "john.doe@example.com",
+    "preference": "non-veg",
+    "attendance": "yes"
+  },
+  {
+    "name": "Bob",
+    "email": "bob.@example.com",
+    "preference": "vegetarian",
+    "attendance": "yes"
+  }
+]
