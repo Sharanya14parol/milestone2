@@ -16,3 +16,5 @@ exports.addAttendee = (req, res) => {
   attendees.push({ name, email, preference });
   res.status(201).json({ success: true, message: 'Attendee added successfully', attendees });
 };
+
+exports.attendees = attendees;

@@ -6,8 +6,4 @@ router.post('/', rsvpController.addRSVP);
 
 router.get('/', rsvpController.getRSVPs);
 
-router.get('/attending', rsvpController.getAttendingRSVPs);
-
-router.get('/not-attending', rsvpController.getNotAttendingRSVPs);
-
 module.exports = router;
